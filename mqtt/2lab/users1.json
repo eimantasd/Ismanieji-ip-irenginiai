@@ -1,0 +1,26 @@
+{
+	"table": {
+		"users": {
+			"user1": {
+				"name": "tester1",
+				"codes": [
+					"1",
+					"2",
+					"3",
+					"4"
+				],
+				"surname": "tester1"
+			},
+			"user2": {
+				"name": "tester2",
+				"codes": [
+					"1",
+					"2",
+					"3",
+					"4"
+				],
+				"surname": "tester2"
+			}
+		}
+	}
+}
